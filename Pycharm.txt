@@ -1,0 +1,45 @@
+Introduction
+Install Python
+Install Robot Framework
+Install Selenium2Library
+Install PyCharm
+Introduction
+Robot Framework is implemented with Python and supports also Jython (JVM). Before installing the framework, it is a pre-requisite to install at least one of these interpreters.
+Install Python
+Download the latest Python 2.7 version using the following link to C:\Python27 folder.
+Download Python 2.7.*
+Update environment variables
+Append the following to the end of the PATH system variable
+;C:\Python27;C:\Python27\scripts
+Verify Python installation
+Use the following on the command prompt to verify python installation.
+C:\>python --version
+Python 2.7.12
+Install Robot Framework
+Installing with pip
+Using pip is the recommended way to install Robot Framework. As the standard Python package manager it is included in the latest Python and Jython versions. If you already have pip available, you can simply execute:
+pip install robotframework
+Verify Robot Framework installation
+C:\>robot --version
+Robot Framework 3.0 (Python 2.7.12 on win32)
+Upgrading Robot Framework
+When using pip, upgrading to a new version requires --upgrade option or explicit version needs to be specified.
+pip install --upgrade robotframework
+pip install robotframework==2.9.2
+Install Selenium2Library
+Selenium2Library is a web testing library for Robot Framework that leverages the Selenium 2 (WebDriver) libraries from the Selenium project.
+Installing with pip
+pip install robotframework-selenium2library
+Download Drivers to C:\Python27\scripts
+geckodriver.exe
+chromedriver.exe
+Install PyCharm
+Install the Community edition of PyCharm to use as an IDE/Editor for Robot Framework.
+PyCharm Community Edition
+Install Robot Framework Support plugin for PyCharm
+Download the latest version of the plugin from the following link.
+Robot Framework Support plugin
+  Open PyCharm ? settings ? plugins ?  search forrobotframork? Install 
+ Restart Pycharm
+Robot Framework Run Tests
+ Open PyCharm ? settings ? tools ? external tools?
