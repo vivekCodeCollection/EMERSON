@@ -1,0 +1,278 @@
+[INFO  - 2017-07-02T11:14:02.438Z] GhostDriver - Main - running on port 11578
+[INFO  - 2017-07-02T11:14:03.149Z] Session [8e1fba60-5f17-11e7-a1c5-8179d5db0714] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-07-02T11:14:03.150Z] Session [8e1fba60-5f17-11e7-a1c5-8179d5db0714] - page.customHeaders:  - {}
+[INFO  - 2017-07-02T11:14:03.150Z] Session [8e1fba60-5f17-11e7-a1c5-8179d5db0714] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-8.1-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-02T11:14:03.150Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8e1fba60-5f17-11e7-a1c5-8179d5db0714
+[ERROR - 2017-07-02T11:14:09.187Z] Session [8e1fba60-5f17-11e7-a1c5-8179d5db0714] - page.onError - msg: ReferenceError: Can't find variable: Promise
+[ERROR - 2017-07-02T11:14:09.187Z] Session [8e1fba60-5f17-11e7-a1c5-8179d5db0714] - page.onError - stack:
+  o (https://assets-cdn.github.com/assets/frameworks-9cbd03ea56461e84ab8956bf7799a977d6cc8a1f984c71b5ecb2edfdba3d773f.js:1)
+[ERROR - 2017-07-02T11:14:09.913Z] Session [8e1fba60-5f17-11e7-a1c5-8179d5db0714] - page.onError - msg: ReferenceError: Can't find variable: Promise
+[ERROR - 2017-07-02T11:14:09.913Z] Session [8e1fba60-5f17-11e7-a1c5-8179d5db0714] - page.onError - stack:
+  o (https://assets-cdn.github.com/assets/frameworks-9cbd03ea56461e84ab8956bf7799a977d6cc8a1f984c71b5ecb2edfdba3d773f.js:1)
+[INFO  - 2017-07-02T11:19:02.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T11:24:02.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T11:29:02.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T11:34:02.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T11:39:02.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T11:44:02.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T11:49:02.439Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T11:54:02.439Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T11:59:02.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:04:02.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:09:02.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:14:02.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:19:02.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:24:02.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:29:02.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:34:02.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:39:02.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:44:02.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:49:02.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:54:02.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T12:59:02.476Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:04:02.477Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:09:02.477Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:14:02.477Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:19:02.477Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:24:02.478Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:29:02.478Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:34:02.478Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:39:02.479Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:44:02.479Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:49:02.480Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:54:02.481Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T13:59:02.481Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T14:04:02.481Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T14:09:02.482Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T17:47:39.809Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T17:52:40.282Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T17:57:40.289Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:02:40.345Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:07:40.346Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:12:40.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:17:40.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:22:40.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:27:40.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:32:40.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:37:40.350Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:42:40.350Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:47:40.351Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:52:40.351Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:57:40.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:02:40.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:07:40.354Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:12:40.355Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:17:40.355Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:22:40.356Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:27:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:32:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:37:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:42:40.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:47:40.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:52:40.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:57:40.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+se starting NOW
+[INFO  - 2017-07-02T18:47:40.351Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:52:40.351Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:57:40.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:02:40.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:07:40.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:12:40.354Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:17:40.354Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:22:40.354Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:27:40.355Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:32:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:37:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:42:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:47:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:52:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:57:40.358Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Hand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:22:40.360Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:27:40.360Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:32:40.360Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:37:40.360Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:42:40.360Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:47:40.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:52:40.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:57:40.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+se starting NOW
+[INFO  - 2017-07-02T18:47:40.350Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:52:40.350Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T18:57:40.351Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:02:40.350Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:07:40.351Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:12:40.352Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:17:40.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:22:40.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:27:40.354Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:32:40.356Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:37:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:42:40.360Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:47:40.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:52:40.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:57:40.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:17:40.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:22:40.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:27:40.356Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:32:40.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:37:40.359Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:42:40.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:47:40.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:52:40.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:57:40.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+":"windows-8.1-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-02T19:28:51.552Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: adca5d80-5f5c-11e7-b821-d988e8ba1683
+[ERROR - 2017-07-02T19:28:58.184Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:28:58.184Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:28:58.185Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:28:58.185Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:28:58.190Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:28:58.190Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:28:58.191Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:28:58.191Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:29:00.201Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:29:00.201Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:29:00.252Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:29:00.253Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:29:00.253Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:29:00.253Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:29:00.376Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:29:00.376Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:29:00.376Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:29:00.377Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:29:00.990Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:29:00.991Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:29:00.992Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:29:00.992Z] Session [adca5d80-5f5c-11e7-b821-d988e8ba1683] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[INFO  - 2017-07-02T19:33:51.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:38:51.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:43:51.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:48:51.261Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:53:51.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:58:51.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+":"windows-8.1-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-02T19:30:47.555Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa
+[ERROR - 2017-07-02T19:30:59.042Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:30:59.042Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:30:59.043Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:30:59.043Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:30:59.052Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:30:59.052Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:30:59.053Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:30:59.053Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:01.215Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:01.216Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:01.224Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:01.225Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:01.225Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:31:01.226Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:01.274Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:01.274Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:01.275Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:31:01.275Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:01.801Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:01.801Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:01.802Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:31:01.802Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:32.517Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:32.517Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:32.517Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:31:32.518Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:32.523Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:32.523Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:32.523Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:31:32.524Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:33.260Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:33.261Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:33.293Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:33.293Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:33.294Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:31:33.294Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:33.299Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:33.299Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:33.300Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:31:33.300Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:33.712Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:31:33.712Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:31:33.712Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:31:33.713Z] Session [f2ef04b0-5f5c-11e7-b3ae-ed3a29d305aa] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[INFO  - 2017-07-02T19:35:47.267Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:40:47.268Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:45:47.273Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:50:47.286Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:55:47.296Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+d-11e7-b165-6f3469580e9c] - page.customHeaders:  - {}
+[INFO  - 2017-07-02T19:35:52.334Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-8.1-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-02T19:35:52.335Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a898c170-5f5d-11e7-b165-6f3469580e9c
+[ERROR - 2017-07-02T19:36:08.962Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:36:08.963Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:08.964Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:36:08.964Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:09.054Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:36:09.054Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:09.055Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:36:09.055Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:10.973Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:36:10.974Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:11.145Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:36:11.145Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:11.146Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:36:11.146Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:11.161Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:36:11.162Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:11.162Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:36:11.162Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:11.640Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: Unauthorized..could not find user
+[ERROR - 2017-07-02T19:36:11.640Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[ERROR - 2017-07-02T19:36:11.640Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - msg: No current user found!
+[ERROR - 2017-07-02T19:36:11.641Z] Session [a898c170-5f5d-11e7-b165-6f3469580e9c] - page.onError - stack:
+  (anonymous function) (https://qa-ares.emersonecologics.com/app.3024adaf6157b8e30116.js:6)
+[INFO  - 2017-07-02T19:40:52.113Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:45:52.125Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:50:52.125Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-02T19:55:52.125Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
