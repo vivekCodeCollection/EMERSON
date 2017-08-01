@@ -1,0 +1,6 @@
+2017-06-30 22:41:06,775 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2017-06-30 22:41:22,081 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:1
+2017-06-30 22:41:22,315 - com.qspiders.KeyDriver - INFO - ======================================================
+2017-06-30 22:41:22,315 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario1
+2017-06-30 22:41:22,366 - com.qspiders.KeyDriver - INFO - StepCount:4
+2017-06-30 22:41:22,695 - com.qspiders.KeyDriver - INFO - enter username
