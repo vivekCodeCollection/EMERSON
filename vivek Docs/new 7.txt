@@ -1,0 +1,112 @@
+	
+	// Excel Write Data in new Format ExcelUtil.java
+	public static void writeData(Sheet s ,int rownum,String S,int value)
+	{
+		Row r =s.createRow(rownum);
+		r.createCell(0).setCellValue(S);
+		r.createCell(1).setCellValue(value);
+	}
+	
+	
+	
+	//Base File - in @afterSuite   for Excel report ----- createFolder in reports Folder name excelReport
+	
+	import Sttic co.actitime.genric.MyProjectListners.*;
+	
+	@AfterSuite
+	public void configAfterSuite(){
+	Reporter.log("Running After Suite",true);
+	
+	DateFormat dateFormat=new SimpleDateFormat("yy_MM_dd_hh_mm_ss");
+    Date date =new Date();
+    String TimeStamp=dateFormat.format(date);
+    String XLPath="./reports/excelreport/Report"+TimeStamp+".xlsx";
+    FileOutputStream Fos;
+    try{
+    	Fos=new FileOutputStream(XLPath);
+    	Workbook wb=new HSSFWorkbook();
+    	Sheet s= wb.createSheet();
+    	ExcelUtils.writeData(s, 0, "Total :", iPassCount+iFailCount);
+    	ExcelUtils.writeData(s, 1, "Passed :", iPassCount);
+    	ExcelUtils.	writeData(s, 2, "Failed :", iFailCount);
+    	ExcelUtils.writeData(s, 3, "Skipped :", iSkipCount);
+    	
+    }
+	 try{
+    	wb.write(Fos);
+    	Fos.close();
+    }
+    catch(IOException e){
+    	Reporter.log("Unable to write a message ", true);
+    	e.printStackTrace();
+    }
+    
+    }catch(FileNotFoundException e){
+    	Reporter.log("Excel file is not creating", true);
+    }
+	
+	
+	
+	
+	//To Read Data Based On Selected Row or Selected Test Case ID
+	
+	public static String[] toReadExcelData(String sTestCaseID){
+		
+		String sData[]=null;
+		try{
+			FileInputStream fis=new FileInputStream(new File(".\\testData\\testData.xlsx"))
+	Workbook wb = WorkbookFactory.create(fis);
+			Sheet sht=wb.getSheet("Sheet1");
+			int iRowNum=sht.getLastRowNum();
+			for(int i=1;i<=RowNum;i++){
+				
+	if(sht.getRow(i).getCell(0).toString().equals(sTestCaseID))	{		
+		int icellNum=sht.getRow(i).getLastCellNum();
+		sData=new String[iCellNum];
+		
+		for(int j=0;j<iCellNum;j++){
+			sData[j]=sht.getRow(i).getCell(j).getStringCellValue();
+		}
+		break;
+	}
+			}
+				
+		}
+		catch(EncryptedDocumentException e){
+			e.printStackTrace();
+		}
+		catch (InvalidFormatException e) {
+			
+		}
+		catch(IOException e){
+			e.printStackTrace();
+		}
+		return sData;
+		
+		
+	}
+	
+	
+	// How To call This method In TestScript 
+	
+	public class LoginTest extends BaseLib{
+	String sTestCaseID ="" ; //Login_ID will written in Excel sheet as TestCaseID 
+	String [] sData=null;
+	@Test
+	public void loginTest(){
+	sTestCaseID="Login_ID";
+	sData=ExcelUtils.toReadExcelData(sTestCaseID);
+	LoginPage lp=new LoginPage(drver);
+	lp.login(sData[1],sData[2]);
+	
+	try{
+	thread.sleep(2000)
+	}
+	catch(){
+	
+	//Remain Same as you want
+	
+	
+	
+	
+	

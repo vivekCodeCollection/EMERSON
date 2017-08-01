@@ -1,0 +1,17 @@
+ANDROID_HOME
+C:\Users\user\AppData\Local\Android\android-sdk
+
+
+
+Console Command for Open current activity 
+First Step - write command > adb Shell +Enter
+Second Step - Write In Command -
+
+dumpsys window windows | grep -E 'mCurrentFocus|mFocusedApp'
+
+
+
+
+Node Js Path Setup
+>>npm install -g appium@1.6.5 --no-shrinkwrap
+>"c:/ProgramFiles/nodejs/Node.exe" "c:\
